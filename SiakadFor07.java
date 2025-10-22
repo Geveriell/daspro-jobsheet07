@@ -1,3 +1,5 @@
+//maaf bu salah penulisan judul commit
+
 import java.util.Scanner;
 
 public class SiakadFor07 {
